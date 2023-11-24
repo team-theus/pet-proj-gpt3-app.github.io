@@ -1,10 +1,7 @@
 # pet-proj-gpt3-app.github.io
 GPT-3 Website                    
                                         
-Responsive Website for a Bank App is created with React JS
-- build tool Vite;
-- Tailwind for styling;
-- reusable sections
+Website for a GPT-3 OpenAI is created with React JS, HTML5, CSS3
 
 
 Link to app: 
